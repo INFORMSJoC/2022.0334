@@ -35,6 +35,7 @@ This repository provides data for the problem and scripts for the models.
 
 The main folders are 'data', 'scripts', and 'results'.
 - '[data](data)': This folder includes minimum sum graph coloring data sets.
+- '[src](src)': Our metaheuristic solver Q-Card can be found in this folder.
 - '[scripts](scripts)': This folder provides a running script.
 - '[results](results)': This folder provides the results.
 
